@@ -1,0 +1,16 @@
+com/seven/services/dao/TipoArticuloDao.class
+com/seven/services/dao/TipoArticuloDaoImpl$2.class
+com/seven/services/service/TipoArticuloService.class
+com/seven/services/service/TipoArticuloServiceImpl.class
+com/seven/services/data/TipoArticulo.class
+com/seven/service/response/AsignacionResponse.class
+com/seven/service/AsignacionController.class
+com/seven/services/dao/TipoArticuloDaoImpl$1.class
+com/seven/services/exception/TipoArticuloException.class
+com/seven/Application.class
+com/seven/services/dao/TipoArticuloDaoImpl.class
+com/seven/services/TipoArticuloController.class
+com/seven/service/dao/AsignacionDao.class
+com/seven/service/data/Asignacion.class
+com/seven/service/services/AsignacionService.class
+com/seven/service/services/AsignacionServiceImpl.class
